@@ -3346,7 +3346,7 @@ end
     
     function Text(value)
 		game.StarterGui:SetCore("SendNotification", {
-			Title = "NarBlox Notifications", 
+			Title = "Makori Notifications", 
 			Text = tostring(value),
 			Icon = "http://www.roblox.com/asset/?id=15955149910",
 			Duration = 10
@@ -13533,7 +13533,7 @@ end)
         end
     end
 
-Main:Label("NarBlox")
+Main:Label("Narblox")
 
 
 
